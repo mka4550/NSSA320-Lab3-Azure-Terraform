@@ -1,7 +1,7 @@
 # NSSA320-Lab3-Azure-Terraform
 Madya Alfalasi - 390006108
 
-This lab demonstrates the use of Terraform to deploy and manage infrastructure in Microsoft Azure.
+This lab demonstrates the use of Terraform to deploy and manage infrastructure in Microsoft Azure. The lab includes Azure authentication, provider initialization, virtual machine deployment, virtual machine resizing using variables, and automated NGINX provisioning.
 
 # Technologies Used
 - Terraform
